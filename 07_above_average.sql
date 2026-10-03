@@ -1,0 +1,2 @@
+-- Tasks 11-12: compare Invoice.Total with overall / customer average.
+-- Write one SELECT statement below this comment.

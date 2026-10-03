@@ -1,0 +1,2 @@
+-- Tasks 3-4: filter Invoice.Total, then add a CASE purchase label.
+-- Write one SELECT statement below this comment.

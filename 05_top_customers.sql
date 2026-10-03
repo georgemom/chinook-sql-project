@@ -1,0 +1,2 @@
+-- Tasks 7-8: join Customer to Invoice and summarize each customer.
+-- Write one SELECT statement below this comment.

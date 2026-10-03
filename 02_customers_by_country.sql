@@ -1,0 +1,2 @@
+-- Task 2: count customers per Country and sort from most to fewest.
+-- Write one SELECT statement below this comment.
